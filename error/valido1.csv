@@ -1,0 +1,1 @@
+INSERT INTO resultados_examenes (laboratorio_id, paciente_id, tipo_examen, resultado, fecha_examen) VALUES (102, '1234567892', 'hemoglobina', '13.5', '2025-04-10')
