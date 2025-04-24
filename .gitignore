@@ -32,8 +32,3 @@ Desktop.ini
 *.bak
 *.swp
 
-# Archivos de entrada y salida del flujo de integración
-input-labs/
-processed/
-error/
-logs/
