@@ -1,0 +1,39 @@
+# Compilados
+/target/
+*.class
+
+# Archivos de logs
+*.log
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Archivos generados por IDEs
+.idea/
+*.iml
+*.iws
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln
+
+
+# Archivos de configuración específicos del sistema
+*.env
+*.local
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+
+# Archivos de entrada y salida del flujo de integración
+input-labs/
+processed/
+error/
+logs/
